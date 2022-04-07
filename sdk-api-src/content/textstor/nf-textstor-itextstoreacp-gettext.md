@@ -60,7 +60,7 @@ Specifies the starting character position.
 
 ### -param acpEnd [in]
 
-Specifies the ending character position. If this parameter is 1, then return all text in the text store.
+Specifies the ending character position. If this parameter is -1, then return all text in the text store.
 
 ### -param pchPlain [out]
 
@@ -152,8 +152,7 @@ On exit, <i>pacpNext</i> should be set to the character position of the next cha
 
 
 
-<a href="/windows/desktop/api/textstor/nf-textstor-itextstoreacp-requestlock">ITextStoreACP::RequestLock
-      </a>
+<a href="/windows/desktop/api/textstor/nf-textstor-itextstoreacp-requestlock">ITextStoreACP::RequestLock</a>
 
 
 
@@ -161,5 +160,4 @@ On exit, <i>pacpNext</i> should be set to the character position of the next cha
 
 
 
-<a href="/windows/desktop/api/textstor/ns-textstor-ts_runinfo">TS_RUNINFO
-      </a>
+<a href="/windows/desktop/api/textstor/ns-textstor-ts_runinfo">TS_RUNINFO</a>
