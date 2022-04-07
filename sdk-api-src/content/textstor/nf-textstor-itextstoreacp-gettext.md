@@ -161,5 +161,4 @@ On exit, <i>pacpNext</i> should be set to the character position of the next cha
 
 
 
-<a href="/windows/desktop/api/textstor/ns-textstor-ts_runinfo">TS_RUNINFO
-      </a>
+<a href="/windows/desktop/api/textstor/ns-textstor-ts_runinfo">TS_RUNINFO</a>
